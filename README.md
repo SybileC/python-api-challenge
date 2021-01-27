@@ -56,5 +56,5 @@
 
 - Created a heat map that displays the humidity for every city and plotted hotel on top of heat map
 
-![Heat Map](Output/heat_map.png)
+![Heat Map](output/heat_map.png)
 
