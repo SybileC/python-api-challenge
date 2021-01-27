@@ -5,4 +5,4 @@
 -  Created a series of scatter plots to showcase the following relationships
 
     - Temperature (F) vs. Latitude
-      ![Latitude vs. Temperature Plot](output/City Latitude vs. Max Temperature (09-23-2020).PNG)
+      ![Latitude vs. Temperature Plot](Images/Temp_vs_Lat.PNG)
